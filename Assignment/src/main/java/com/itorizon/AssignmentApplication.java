@@ -53,133 +53,133 @@ public class AssignmentApplication implements CommandLineRunner {
 		/**
 		 * The programs based on strings
 		 */
-//		strings.noOfCharacters();
-//		strings.noOfVowels();
-//     strings.divideString();		
-// 	strings.removeWhiteSpaces();
-//	    strings.conversionOfCase();
-//     strings.replaceWithSpecficCharacter();		
-//	    strings.maxMinOccurance();
-//		strings.reverseOfString();
-//	    strings.findDuplicateCharacter();
-//		strings.findDuplicateWords();
-//		strings.toFindFrequency();
-//		strings.toFindLargestSmallestWord();
-//		strings.toFindRepeatedWordInTxt();
-//		strings.noOfWordsInTxt();
-//		strings.separateIndividualChar();
-//		strings.charStringConversion();
-//		strings.sortingStringsInAlpa();
-//    	strings.howToRemoveFirstString();
+		strings.noOfCharacters();
+		strings.noOfVowels();
+                strings.divideString();		
+         	strings.removeWhiteSpaces();
+	        strings.conversionOfCase();
+                strings.replaceWithSpecficCharacter();		
+	        strings.maxMinOccurance();
+		strings.reverseOfString();
+	        strings.findDuplicateCharacter();
+		strings.findDuplicateWords();
+		strings.toFindFrequency();
+		strings.toFindLargestSmallestWord();
+		strings.toFindRepeatedWordInTxt();
+ 		strings.noOfWordsInTxt();
+		strings.separateIndividualChar();
+		strings.charStringConversion();
+		strings.sortingStringsInAlpa();
+    	        strings.howToRemoveFirstString();
 	
        /**
         * The Programs Based on Arrays
         */
 		
-//		  arrays.toSortNumericAndStringArray();
-//       arrays.toSumValues();
-//       arrays.toPrintGrid();
-//		  arrays.toCalculateAverage();
-//		  arrays.toTestArray();
-//		  arrays.toFingIndex();
-//		arrays. toRemoveSpecificElement();
-//		arrays.toCopyArray();
-//		arrays.toInsertElement();
-//		arrays.toFindMaxAndMin();
-//		arrays.toReverseArray();
-//		arrays.toFindDupicateArray();
-//		arrays.toFindDuplicateValues();
-//		arrays.toFindCommonElements();
-//		arrays.toFindCommonIntegers();
-//		arrays.toRemoveDupicateElements();
-//		arrays.toFindLargestElements();
-//		arrays.toFindSecondSmallestEle();
-//		arrays.toAddTwoMatrics();
-//		arrays. toTestEquality();
-//		arrays.toFindMissingNumber();
-//		arrays.toFindCommonElementsFromArrays();
-//		arrays.toMoveZeroToEnd();
-//		arrays.noOfEvenAndOdd();
-//		arrays.getDifferenceBetweenLargeAndSmall();
-//		arrays.avgOfIntegers();
-//		arrays.toCheckArray();
-//		arrays.toCheckSum(); 
-//		arrays.toCheckSpecifiedElement();
-//		arrays.removeDuplicate();
-//		arrays.sumOfElementsOfArray();
-//		arrays. toFindPositiveAndNegative();
-//		arrays.toFindSmallestAndSecondSmallest();
-//		arrays. zeroOnLeftOneOnRight() ;
-//		arrays.negativeBeforePositiveElements();
-//		arrays. positiveBeforeNegativeElements();
-//		arrays.seperateEvenAndOdd();
-//		
+		arrays.toSortNumericAndStringArray();
+                arrays.toSumValues();
+                arrays.toPrintGrid();
+		arrays.toCalculateAverage();
+		arrays.toTestArray();
+		arrays.toFingIndex();
+		arrays. toRemoveSpecificElement();
+		arrays.toCopyArray();
+		arrays.toInsertElement();
+		arrays.toFindMaxAndMin();
+		arrays.toReverseArray();
+		arrays.toFindDupicateArray();
+		arrays.toFindDuplicateValues();
+		arrays.toFindCommonElements();
+		arrays.toFindCommonIntegers();
+		arrays.toRemoveDupicateElements();
+		arrays.toFindLargestElements();
+		arrays.toFindSecondSmallestEle();
+		arrays.toAddTwoMatrics();
+		arrays. toTestEquality();
+		arrays.toFindMissingNumber();
+		arrays.toFindCommonElementsFromArrays();
+		arrays.toMoveZeroToEnd();
+		arrays.noOfEvenAndOdd();
+		arrays.getDifferenceBetweenLargeAndSmall();
+		arrays.avgOfIntegers();
+		arrays.toCheckArray();
+		arrays.toCheckSum(); 
+		arrays.toCheckSpecifiedElement();
+		arrays.removeDuplicate();
+		arrays.sumOfElementsOfArray();
+		arrays. toFindPositiveAndNegative();
+		arrays.toFindSmallestAndSecondSmallest();
+		arrays. zeroOnLeftOneOnRight() ;
+		arrays.negativeBeforePositiveElements();
+		arrays. positiveBeforeNegativeElements();
+		arrays.seperateEvenAndOdd();
+		
      	/**
      	 * The Programs Based On Collections ArrayList
      	 */
 		
-//		arrayLists.addToArrayList();
-//		arrayLists.toInsertAtFirstPosition();
-//		arrayLists.indexToShowName();
-//		arrayLists.updateArrayElement();
-//		arrayLists.removeThirdElement() ;
-//		arrayLists.copyElementsToOtherArrayList();
-//		arrayLists.reverseJoinClone();
-//		arrayLists. checkArrayEmptyOrNot();
-//		arrayLists.searchAndSortArray();
+		arrayLists.addToArrayList();
+		arrayLists.toInsertAtFirstPosition();
+		arrayLists.indexToShowName();
+		arrayLists.updateArrayElement();
+		arrayLists.removeThirdElement() ;
+		arrayLists.copyElementsToOtherArrayList();
+		arrayLists.reverseJoinClone();
+		arrayLists. checkArrayEmptyOrNot();
+		arrayLists.searchAndSortArray();
 		
 		/**
 		 * The Programs based on collections HashMaps
 		 */
-//		hashMaps.addStudent();
-//		hashMaps.iterateHashMap();
-//		hashMaps.getAndCountEntries();
-//		hashMaps.copyAndRemove();
-//		hashMaps.containsSpecificStudent();
-//		hashMaps.setAndCollectionView();
-//		
+		hashMaps.addStudent();
+		hashMaps.iterateHashMap();
+		hashMaps.getAndCountEntries();
+		hashMaps.copyAndRemove();
+		hashMaps.containsSpecificStudent();
+		hashMaps.setAndCollectionView();
+		
 	/**
 	 * The Programs Based on Collections HashSets
 	 */
-//		hashSets.toAddName();
-//		hashSets.toIterateHashSet();
-//		hashSets.toCountAndEmptyHashSet();
-//		hashSets.toConvertToArrayList();
-//		hashSets. toCompare();
-//		hashSets.toCompareAndRetain();
-//		hashSets.toRemoveAllElements();
-//		
+		hashSets.toAddName();
+		hashSets.toIterateHashSet();
+		hashSets.toCountAndEmptyHashSet();
+		hashSets.toConvertToArrayList();
+		hashSets. toCompare();
+		hashSets.toCompareAndRetain();
+		hashSets.toRemoveAllElements();
+		
 		/**
 		 * The Programs Based on Collection LinkedLists
 		 */
-//		linkedLists.addToEndOfList();
-//		linkedLists.toIterateList();
-//		linkedLists.toInserAtSpecifiedPlace();
-//		linkedLists.toInsertAtFrontAndEnd();
-//		linkedLists.toDisplayAndRemove() ;
-//		linkedLists.toJoinTwoLinkedList();
-//		linkedLists.toCloneList();
-//		linkedLists.toRemoveAndRetreive();
-//		linkedLists.toCheckElementExistance();
-//		linkedLists.toConvertToArrayList();
+		linkedLists.addToEndOfList();
+		linkedLists.toIterateList();
+		linkedLists.toInserAtSpecifiedPlace();
+		linkedLists.toInsertAtFrontAndEnd();
+		linkedLists.toDisplayAndRemove() ;
+		linkedLists.toJoinTwoLinkedList();
+		linkedLists.toCloneList();
+		linkedLists.toRemoveAndRetreive();
+		linkedLists.toCheckElementExistance();
+		linkedLists.toConvertToArrayList();
 		
 		/**
 		 * The Programs Based on Collections TreeMaps
 		 */
-//		treeMaps.toGetAndDeleteAll();
-//		treeMaps.toSortKeysInDescendingOrder() ;
-//		treeMaps.toGetFirstAndLastKey();
-//		treeMaps.toReverseTreeSet() ;
+		treeMaps.toGetAndDeleteAll();
+		treeMaps.toSortKeysInDescendingOrder() ;
+		treeMaps.toGetFirstAndLastKey();
+		treeMaps.toReverseTreeSet() ;
 
 		/**
 		 * The Programs Based on Collections TreeSet
 		 */
-//		treeSets.toIterateTreeSet();
-//		treeSets.toAddElement();
-//		treeSets.toReverseCountGetFirstAndLastElement();
-//		treeSets. toNumberLessThan7();
-//		treeSets.toGetSpecificElement();
-//		treeSets.toRetreiveAndRemove();
-//		treeSets.toRemoveParticularElement();
+		treeSets.toIterateTreeSet();
+		treeSets.toAddElement();
+		treeSets.toReverseCountGetFirstAndLastElement();
+		treeSets. toNumberLessThan7();
+		treeSets.toGetSpecificElement();
+		treeSets.toRetreiveAndRemove();
+		treeSets.toRemoveParticularElement();
 		 }
 	}
